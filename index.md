@@ -7,51 +7,51 @@
 ## Education
 
 - **Shanghai Jiao Tong University**, Shanghai, China, 2020/09-Present
-  B.S. in Computer Science
+  - B.S. in Computer Science
 - **Shanghai Jiao Tong University**, Shanghai, China, 2016/09-2020/07
-  B.S. in Bioinformatics
-  Advisor: Haifeng Chen
-  [Bachelor Thesis](Link to thesis)
+  - B.S. in Bioinformatics
+  - Advisor: Haifeng Chen
+  - [Bachelor Thesis](Link to thesis)
 - **University of Zurich**, Zurich, Switzerland, 2019/09-2020/01
-  Exchange Student
+  - Exchange Student
 
 ## Experience
 
 - **Analysis, Assembly and Design of Protein Structural Components**
-  PI: Haifeng Chen
+  - PI: Haifeng Chen
 - **Directed Evolution and Rational Design of spCas9 to Reduce Off-Target Rate on Specific Genes**
-  PI: Gang Ma, Lin He
+  - PI: Gang Ma, Lin He
 - **Development of Molecular Force Field for Post-Translational Modified Proteins**
-  PI: Haifeng Chen
+  - PI: Haifeng Chen
 - **CRISPR Off-Target Detection System**
-  PI: Gang Ma, Lin He
+  - PI: Gang Ma, Lin He
 - **Test and Evaluation of ff03CMAP force field on Post-Translational Modified Proteins**
-  PI: Haifeng Chen
+  - PI: Haifeng Chen
 - **Combinatorial cell surface display system in Escherichia coli for noninvasive colorectal cancer detection**
-  PI: Gang Ma, Lin He
+  - PI: Gang Ma, Lin He
 - **Developing Novel Algorithm for Mapping microRNA Targets**
-  PI: Ilya Ioshikhes, William Klement
+  - PI: Ilya Ioshikhes, William Klement
 - **Palette - A Universal Multifactorial Visualized Detection System**
-  PI: Gang Ma, Lin He
+  - PI: Gang Ma, Lin He
 - **QM/MM calculation of potential-energy curve of target enzyme catalytic reaction and enzyme design adapted to the novel 4+4 cycloaddition reaction**
-  Course Project, Instructor: Yilei Zhao
+  - Course Project, Instructor: Yilei Zhao
 
 ## Honors and Awards
 
 - **ChunTsung Scholar**, 2020
-  Honors excellent undergraduates who completed high-level research projects
+  - Honors excellent undergraduates who completed high-level research projects
 - **Gold Medal, Nominated for Best New Application Project**, iGEM, 2019
-  As team advisor
+  - As team advisor
 - **Ivy Specialty Scholarship**, SJTU, 2019
-  Honors student with specialty (scientific competitions), 1 of 16 in university
+  - Honors student with specialty (scientific competitions), 1 of 16 in university
 - **Gold Medal, Nominated for Best Therapeutics Project**, iGEM, 2018
-  As team member
+  - As team member
 - **Hongyi Excellent Scholarship**, SJTU, 2018
-  Honors undergraduates did well in scientific research, 1 of 10 in university
+  - Honors undergraduates did well in scientific research, 1 of 10 in university
 - **Gold Medal**, iGEM, 2017
-  As team leader
+  - As team leader
 - **A-class Academic Excellent Scholarship**, SJTU, 2017
-  Honors top 15% students
+  - Honors top 15% students
 
 ## Leadership & Activities
 
