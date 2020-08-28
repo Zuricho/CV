@@ -36,20 +36,9 @@
         hideOtherSidebarContent: true,
         // To avoid search index collision
         // between multiple websites under the same domain
-        namespace: 'Zuricho.github.io/CV',
+        namespace: 'zuricho.github.io/CV',
       },
-      plugins: [
-        // remove url parameters before loading Gitalk
-        // as Gitalk uses location.href as id
-        function(hook, vm) {
-          hook.beforeEach(function(html) {
-            var splited = location.href.split('?')
-            if (splited.length >= 2 && !splited[1].startsWith("code=")) {
-              location.href = location.href.split('?')[0]
-            }
-          });
-        }
-      ],
+      
     }
   </script>
   <!-- Docsify -->
