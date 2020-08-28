@@ -1,61 +1,56 @@
-# Bozitao Zhong
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
-## Research Interest
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-- **Computational Structural Biology**: Protein design algorithms, Molecular dynamics, Quantum chemistry
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
-## Education
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
-- **Shanghai Jiao Tong University**, Shanghai, China, 2020/09-Present
-  - B.S. in Computer Science
-- **Shanghai Jiao Tong University**, Shanghai, China, 2016/09-2020/07
-  - B.S. in Bioinformatics
-  - Advisor: Haifeng Chen
-  - [Bachelor Thesis](Link to thesis)
-- **University of Zurich**, Zurich, Switzerland, 2019/09-2020/01
-  - Exchange Student
+## Installation
 
-## Experience
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Delete the `gh-pages` branch
+* Re-create the `gh-pages` branch
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
 
-- **Analysis, Assembly and Design of Protein Structural Components**
-  - PI: Haifeng Chen
-- **Directed Evolution and Rational Design of spCas9 to Reduce Off-Target Rate on Specific Genes**
-  - PI: Gang Ma, Lin He
-- **Development of Molecular Force Field for Post-Translational Modified Proteins**
-  - PI: Haifeng Chen
-- **CRISPR Off-Target Detection System**
-  - PI: Gang Ma, Lin He
-- **Test and Evaluation of ff03CMAP force field on Post-Translational Modified Proteins**
-  - PI: Haifeng Chen
-- **Combinatorial cell surface display system in Escherichia coli for noninvasive colorectal cancer detection**
-  - PI: Gang Ma, Lin He
-- **Developing Novel Algorithm for Mapping microRNA Targets**
-  - PI: Ilya Ioshikhes, William Klement
-- **Palette - A Universal Multifactorial Visualized Detection System**
-  - PI: Gang Ma, Lin He
-- **QM/MM calculation of potential-energy curve of target enzyme catalytic reaction and enzyme design adapted to the novel 4+4 cycloaddition reaction**
-  - Course Project, Instructor: Yilei Zhao
+Change all the details from one place: ``_data/data.yml``
 
-## Honors and Awards
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-- **ChunTsung Scholar**, 2020
-  - Honors excellent undergraduates who completed high-level research projects
-- **Gold Medal, Nominated for Best New Application Project**, iGEM, 2019
-  - As team advisor
-- **Ivy Specialty Scholarship**, SJTU, 2019
-  - Honors student with specialty (scientific competitions), 1 of 16 in university
-- **Gold Medal, Nominated for Best Therapeutics Project**, iGEM, 2018
-  - As team member
-- **Hongyi Excellent Scholarship**, SJTU, 2018
-  - Honors undergraduates did well in scientific research, 1 of 10 in university
-- **Gold Medal**, iGEM, 2017
-  - As team leader
-- **A-class Academic Excellent Scholarship**, SJTU, 2017
-  - Honors top 15% students
+## Skins
 
-## Leadership & Activities
+There are 6 color schemes available:
 
-- **Executive Committee**, Conference of China iGEMer Community(CCiC), 2019-2020
-- **Mentor**, Fudan-TSI iGEM team, 2019
-- **Vice Chairman**, Student Union of School of Life Sciences and Biotechnology, 2018
-- **Editor and Reporter**, Yiyou News Agency, 2018
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
+
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
