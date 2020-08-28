@@ -1,6 +1,4 @@
----
-title: "Bozitao Zhong"
----
+# Bozitao Zhong
 
 ## Research Interest
 
