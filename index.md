@@ -1,5 +1,3 @@
-# Bozitao Zhong
-
 ## Research Interest
 
 - **Computational Structural Biology**: Protein design algorithms, Molecular dynamics, Quantum chemistry
