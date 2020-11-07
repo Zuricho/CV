@@ -52,7 +52,7 @@ title: "Bozitao Zhong"
   - Designed a new pair of STAR antisense and target and integrated them with the old pair into bacteria
   - Constructed and expressed chromoproteins in *E. coli*
 - **QM/MM calculation of potential-energy curve of target enzyme catalytic reaction and enzyme design adapted to the novel 4+4 cycloaddition reaction**
-  - [Detail](https://zuricho.github.io/CV//Gauss)
+  - [Detail](https://zuricho.github.io/CV/gauss)
   - Course Project, Instructor: Yilei Zhao
   - Shanghai Jiao Tong University, Computational Biochemistry Course Project
   - Used Gaussian 09 to calculate potential energy curve of enzymatic reaction

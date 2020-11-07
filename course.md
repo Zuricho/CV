@@ -1,5 +1,5 @@
 ---
-title: "Bozitao Zhong"
+title: "Selective Courses"
 ---
 
 ## Course Structure
