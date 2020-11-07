@@ -1,6 +1,8 @@
 ---
-title: "QM/MM calculation of potential-energy curve of target enzyme catalytic reaction and enzyme design adapted to the novel 4+4 cycloaddition reaction"
+title: "Course Project"
 ---
+
+title: QM/MM calculation of potential-energy curve of target enzyme catalytic reaction and enzyme design adapted to the novel 4+4 cycloaddition reaction
 
 ## Introduction
 
