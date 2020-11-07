@@ -26,6 +26,7 @@ title: "Bozitao Zhong"
   - PI: Haifeng Chen
 - **Semi-Rational Directed Evolution to Improve SpCas9 Fidelity on Specific Genes**
   - PI: Gang Ma, Lin He
+  - [Project Detail](https://2020.igem.org/Team:SJTU-BioX-Shanghai/Description) & [Our Team](https://igem.bio-x.cn/intro-en.html)
   - BioX Institutes, Shanghai Jiao Tong University, 2020 iGEM competition project
   - Build dCas9 activation and inhibition specificity sensor circuit
   - Conduct mutagenesis by error-prone PCR and screening by flow cytometer
@@ -42,10 +43,12 @@ title: "Bozitao Zhong"
   - The project was included in 6th ChunTsung Projects (2 in school of life science)
 - **CRISPR Off-Target Detection System**
   - PI: Gang Ma, Lin He
+  - [Detail](https://2019.igem.org/Team:SJTU-BioX-Shanghai/Description)
 - **Test and Evaluation of ff03CMAP force field on Post-Translational Modified Proteins**
   - PI: Haifeng Chen
 - **Palette - A Universal Multifactorial Visualized Detection System**
   - PI: Gang Ma, Lin He
+  - [Detail](https://2017.igem.org/Team:SJTU-BioX-Shanghai/Description)
   - BioX Institutes, Shanghai Jiao Tong University, 2017 iGEM competition project
   - Team leader, responsible for project design and team management
   - Used small transcription activating RNA (STAR) to control multifactorial sensory system
@@ -61,6 +64,7 @@ title: "Bozitao Zhong"
   - Used QM/MM simulation to prove the possibility of the new 4+4 cycloaddition reaction
 - **Combinatorial cell surface display system in Escherichia coli for noninvasive colorectal cancer detection**
   - PI: Gang Ma, Lin He
+  - [Detail](https://2018.igem.org/Team:SJTU-BioX-Shanghai/Description)
 - **Developing Novel Algorithm for Mapping microRNA Targets**
   - PI: Ilya Ioshikhes, William Klement
 - **Disulfiram Ejection Zinc Mechanism for Nonstructural Protein 5A**

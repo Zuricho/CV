@@ -8,8 +8,6 @@ title: QM/MM calculation of potential-energy curve of target enzyme catalytic re
 
 在生物界中，存在着大量的酶催化反应。在我们探索各种不同的酶催化反应的过程中，我们更多的聚焦于两大问题：如何提高酶催化反应的效率和如果赋予酶更多的功能。根据最近的科学研究，对于第一个问题：如何提高酶催化反应的效率，现在已经有多种解决的方法，其中最负盛名的便是获得2018年诺贝尔化学奖的由Frances H. Arnold开发的蛋白质定向进化方法。然而，如何赋予酶新的功能，或者说如何基于蛋白质设计来赋予酶催化反应不同的反应途径这个问题一直没有得到一个好的答案。如何寻找到一个通用有效的方法来改进酶结构，使得酶能够发生不同的酶催化反应成为了我们主要研究的目的。
 
- 
-
 根据现有的研究表明，metalloesterase MID1sc10拥有能够催化3-vinyl indole与azachalcone的Diels-Alder[4+2]环加成反应。但这个过程在酶中是分步进行的。具体的反应式如下：
 
 ![img](.\gauss.assets\clip_image002.png)
