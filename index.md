@@ -6,14 +6,17 @@ title: "Bozitao Zhong"
 
 - **Computational Structural Biology**: Protein design algorithms, Molecular dynamics, Quantum chemistry
 
+## Selective Courses
+
+[Courses](https://zuricho.github.io/CV/course)
+
 ## Education
 
 - **Shanghai Jiao Tong University**, Shanghai, China, 2020/09-Present
   - B.S. in Computer Science
 - **Shanghai Jiao Tong University**, Shanghai, China, 2016/09-2020/07
   - B.S. in Bioinformatics
-  - Advisor: Haifeng Chen
-  - [Bachelor Thesis](Link to thesis)
+  - Advisor: Prof. Haifeng Chen
 - **University of Zurich**, Zurich, Switzerland, 2019/09-2020/01
   - Exchange Student
 
