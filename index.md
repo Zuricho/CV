@@ -72,6 +72,7 @@ title: "Bozitao Zhong"
 
 ## Honors and Awards
 
+- **Silver Model**, iGEM 2020
 - **ChunTsung Scholar**, 2020
   - Honors excellent undergraduates who completed high-level research projects
 - **Gold Medal, Nominated for Best New Application Project**, iGEM, 2019
@@ -89,6 +90,7 @@ title: "Bozitao Zhong"
 
 ## Leadership & Activities
 
+- **iGEM Judge**, 2021
 - **Executive Committee**, Conference of China iGEMer Community (CCiC), 2019-2020
 - **Mentor**, Fudan-TSI iGEM team, 2019
 - **Vice Chairman**, Student Union of School of Life Sciences and Biotechnology, 2018
