@@ -6,9 +6,19 @@ title: "Bozitao Zhong"
 
 - **Computational Structural Biology**: Protein design algorithms, Molecular dynamics, Quantum chemistry
 
-## Selective Courses
+## Publications
 
-[Courses](https://zuricho.github.io/CV/course)
+[Google Scholar](https://scholar.google.com/citations?user=6k_LhSoAAAAJ) | [ORCID](https://orcid.org/0000-0001-9363-6099)
+
+1. **B. Zhong** et al., ParaFold: Paralleling AlphaFold for Large-Scale Predictions. *HPCAsia 2022 Workshop*, (2022)
+2. C. Shi, C. Wang, J. Lu, **B. Zhong**, J. Tang, Protein Sequence and Structure Co-Design with Equivariant Translation, *ICLR 2023*, (2023)
+3. Y. Zhang, H. Cai, C. Shi, **B. Zhong**, J. Tang, E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking, *ICLR 2023*, (2023)
+4. **B. Zhong**, G. Song, H.-F. Chen, Balanced Force Field ff03CMAP Improving the Dynamics Conformation Sampling of Phosphorylation Site, *International Journal of Molecular Sciences*. 23, 11285 (2022)
+5. F. Huang et al., [Catalytic properties and biological function of a PIWI-RE nuclease from *Pseudomonas stutzeri*](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=6k_LhSoAAAAJ&citation_for_view=6k_LhSoAAAAJ:roLk4NBRz8UC), *Bioresour. Bioprocess*. 9, 57 (2022)
+6. G. Song, B. Zhong, B. Zhang, A. U. Rehman, H.-F. Chen, *J. Chem. Inf. Model*. 63, 1602–1614 (2023)
+7. Y. Zhan, Z. Zhang, B. Zhong, S. Misra, J. Tang, DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing (2023)
+8. J. Lu, B. Zhong, J. Tang, Score-based Enhanced Sampling for Protein Molecular Dynamics (2023)
+9. A. U. Rehman et al., *Phys. Chem. Chem. Phys*. 23, 12204–12215 (2021)
 
 ## Education
 
